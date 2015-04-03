@@ -1,0 +1,390 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10005</WindowHeight>
+  <WindowWidth>10005</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>135</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s74">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Font ss:FontName="微软雅黑" x:CharSet="134" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s76">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="微软雅黑" x:CharSet="134" x:Family="Swiss" ss:Size="11"
+    ss:Color="#5A5A5A"/>
+  </Style>
+  <Style ss:ID="s79">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s85">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="微软雅黑" x:CharSet="134" x:Family="Swiss" ss:Color="#5A5A5A"/>
+  </Style>
+  <Style ss:ID="s86">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="微软雅黑" x:CharSet="134" x:Family="Swiss" ss:Color="#5A5A5A"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="android%E5%AE%A2%E6%88%B7%E7%AB">
+  <Table ss:ExpandedColumnCount="9" ss:ExpandedRowCount="29" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="13.5">
+   <Column ss:AutoFitWidth="0" ss:Width="99"/>
+   <Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="70.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="72"/>
+   <Column ss:AutoFitWidth="0" ss:Width="156"/>
+   <Row>
+    <Cell ss:Index="3" ss:MergeAcross="3" ss:StyleID="s79"><Data ss:Type="String">android客户端V1.0&#45;-发布版</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s74"><Data ss:Type="String">分派给</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">优先级</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">严重性</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">出现频率</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">报告日期</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">最后更新</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">摘要</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">状态</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">处理状况</Data></Cell>
+   </Row>
+   <Row ss:Height="33">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">zhouzhu</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">高</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">很严重</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">总是</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">2015-03-12</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">2015-03-12</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">订场功能无法选择省市下面的区</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">未处理</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">zhangzhiqiang</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">特急</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">很严重</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">总是</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">2015-03-12</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">2015-03-12</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">“忘记密码”无法点击</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">未处理</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">zhangzhiqiang</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">中</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">小错误</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">总是</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">2015-03-10</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">2015-03-10</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">安卓</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">已修正</Data></Cell>
+   </Row>
+   <Row ss:Height="33">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">zhouzhu</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">特急</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">很严重</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">随机</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">2015-03-10</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">2015-03-10</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">发活动时按城市选择场馆时崩了</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">未处理</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">zhangzhiqiang</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">特急</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">很严重</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">随机</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">2015-03-10</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">2015-03-10</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">发布活动后，列表项数据重复</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">未处理</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">jianghongbo</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">特急</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">很严重</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">总是</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">2015-03-10</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">2015-03-10</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">登录注册问题</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">未处理</Data></Cell>
+   </Row>
+   <Row ss:Height="33">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">zhangzhiqiang</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">中</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">小调整</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">总是</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">2015-03-10</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">2015-03-10</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">新用户注册时，点击【注册】按钮未隐藏键盘</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">未处理</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s85"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">中</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">小错误</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">没有试验</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-12</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-12</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">左右上角按钮不好用</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">新建</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">未处理</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">jianghongbo</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">无</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">小错误</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">没有试验</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-12</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-12</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">约活动时间问题</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">未处理</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">zhouzhu</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">中</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">小错误</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">没有试验</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-12</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-12</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">消息提示</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">未处理</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">zhangzhiqiang</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">中</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">小错误</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">没有试验</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-12</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-12</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">比赛报名无反应</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">未处理</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">haocaihong</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">中</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">小错误</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">总是</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-09</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-10</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">安卓</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">已解决</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">未处理</Data></Cell>
+   </Row>
+   <Row ss:Height="33">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">zhangzhiqiang</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">中</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">小调整</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">有时</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-10</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-10</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">发活动输入手机号时不好点击删除  最后一位特不好点</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">未处理</Data></Cell>
+   </Row>
+   <Row ss:Height="49.5">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">zhangzhiqiang</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">中</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">细节</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">总是</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-10</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-10</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">在发活动时在输入电话时键盘可否把底下的内容顶上去 可以让用户看见</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">未处理</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">jianghongbo</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">中</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">小错误</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">总是</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-09</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-10</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">安卓</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">已修正</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">jianghongbo</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">中</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">小错误</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">不适用</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-09</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-10</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">活动</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">已修正</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">jianghongbo</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">加急</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">崩溃</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">总是</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-08</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-10</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">安卓</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">已修正</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">zhouzhu</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">中</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">小错误</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">总是</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-08</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-09</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">安卓</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">未处理</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">zhangzhiqiang</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">中</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">很严重</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">没有试验</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-08</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-09</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">安卓</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">未处理</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">用户24</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">中</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">小错误</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">总是</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-08</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-09</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">IOS</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">未处理</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">zhouzhu</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">中</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">小错误</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">总是</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-08</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-09</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">安卓</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">未处理</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">zhouzhu</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">中</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">很严重</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">没有试验</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-08</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-09</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">安卓</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">未处理</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">zhangzhiqiang</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">中</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">小错误</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">总是</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-08</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-09</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">ios</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">未处理</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">zhouzhu</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">低</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">小调整</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">不适用</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-08</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-09</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">换图标</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">未处理</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">zhangzhiqiang</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">中</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">小错误</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">总是</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-09</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-09</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">战队赛</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">未处理</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">jianghongbo</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">高</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">崩溃</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">总是</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-09</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-09</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">安卓</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">未处理</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">zhangzhiqiang</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">中</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">小错误</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">总是</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-09</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">2015-03-09</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">安卓</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">已分派</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">未处理</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>11</ActiveRow>
+     <ActiveCol>5</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
